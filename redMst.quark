@@ -4,5 +4,8 @@
 	\summary:	"a sort of timeline",
 	\author:		"redFrik",
 	\helpdoc:		"RedMst.html",
-	\url:			"http://www.fredrikolofsson.com/"
+	\schelp:	"RedMst",
+	\since:		"2007",
+	\url:			"https://www.fredrikolofsson.com/",
+	\version:	"1.1",
 )
